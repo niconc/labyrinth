@@ -1,4 +1,4 @@
-# Labyrith
+# Labyrinth
 
 A different binary tree proposal. Using the traditional data structure tree as a base, but with different methodology of Node checking and especially Node go to.
 
